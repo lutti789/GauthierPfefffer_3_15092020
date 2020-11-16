@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#header{
+	text-align: center;
+}
+
+#partheader{
+	
+}
+
+.logoheader{
+	text-align: center;
+	width: 200px;
+	padding-top: 10px;
+}
+
+
+#pagebody{
+	
+}
+
+.titremajeur{
+	padding-top: 50px;
+}
+
+#location{
+	text-align: center;
+	background-color: lightgrey;
+	box-sizing: border-box;
+	width: 450px;
+	height: 50px;
+	margin-left: -10px;
+}
+
+.location{
+	padding-top: 15px;
+	padding-right: 50px;
+}
+
+.logolocation{
+	width: 45px;
+}
+
+#text{
+	background-color: whitesmoke;
+	box-sizing: border-box;
+	width: 450px;
+	margin-left: -10px;
+}
+
+.text1{
+	text-align: center;
+	padding-top: 15px;
+	font-size: 27px;
+	font-weight: bold;
+}
+
+.text2{
+	color: black;
+}
+
+.text3{
+	text-align: center;
+	padding-top: 15px;
+	font-size: 23px;
+}
+
+.text4{
+	color: dimgrey;
+}
+
+
+#pagefonctionnement{
+	
+}
+
+.button{
+	text-align: center;
+}
+
+.button1 {
+	background: linear-gradient(#FF79DA,#9356DC);
+    border: none;
+    color: white;
+    padding: 20px 34px;
+   	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   	font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+	
+	border-radius: 50px;
+	}
+
+.button2{
+	background-color: whitesmoke;
+    border: none;
+    color: black;
+    padding: 20px 34px;
+   	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   	font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+	
+	border-radius: 20px;
+	box-sizing: border-box;
+	width: 370px;
+}
+
+
+#pagerestaurants{
+	background-color: whitesmoke;
+	box-sizing: border-box;
+	width: 450px;
+	margin-left: -10px;
+}
+
+.imgresto{
+	text-align: center;
+}
+
+.imgresto1, .imgresto2, .imgresto3, .imgresto4{
+	background-size: cover;
+	width: 400px;
+	height: 205px;
+	border-radius: 20px 20px 0px 0px;
+}
+
+.textresto{
+	background-color: white;
+    border: none;
+    color: black;
+    padding: 20px 34px;
+   	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   	font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+	
+	border-radius: 0px 0px 20px 20px;
+	box-sizing: border-box;
+	width: 400px;
+	margin-top: -5px;
+}
+
+#footer{
+	background-color: dimgrey
+}
+
+.footer1, .footer2{
+	padding-left: 20px
+}
+
+.logofooter{
+	width: 120px;
+}
+
+.footer2{
+	
+}
